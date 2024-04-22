@@ -12,10 +12,4 @@ export default defineNuxtConfig({
     },
     ssr: true,
     css: ['@/assets/styles/service_mobile.scss'],
-    postcss: {
-        plugins: { autoprefixer: {} },
-    },
-    build: {
-        transpile: ['postcss', 'autoprefixer'],
-    },
 });
