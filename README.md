@@ -4,6 +4,12 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Setup
 
+```bash
+npm install -D vue-tsc typescript
+
+```
+
+
 Make sure to install the dependencies:
 
 ```bash
