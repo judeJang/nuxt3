@@ -1,10 +1,12 @@
 @charset "UTF-8";
 
+@import 'helpers/variables', 'helpers/common', 'helpers/mixins', 'helpers/function', 'helpers/animation';
+
 /** 1.cross browser support  */
-@import 'base/*';
+@import 'base/reset';
 
 /** 2.helpers  */
-@import 'helpers/*';
+
 
 /** 3. layout layout */
 
